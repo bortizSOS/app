@@ -1,0 +1,15 @@
+open 185.27.134.11
+user unaux_31260011 h6nkgogl
+cd /htdocs
+
+put "build/robots.txt"
+put "build/manifest.json"
+put "build/logo512.png"
+put "build/logo192.png"
+put "build/index.html"
+put "build/favicon.ico"
+put "build/asset-manifest.json"
+mkdir static
+
+
+quit

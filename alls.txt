@@ -1,0 +1,7 @@
+open 185.27.134.11
+user unaux_31260011 h6nkgogl
+!ftp -n -s:file.txt
+!ftp -n -s:file2.txt
+!ftp -n -s:jsfile.txt
+!ftp -n -s:mediaffile.txt
+quit

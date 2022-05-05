@@ -1,0 +1,13 @@
+open 185.27.134.11
+user unaux_31260011 h6nkgogl
+
+cd /htdocs/static
+mkdir js
+cd /htdocs/static/js
+put "build/static/js/787.28cb0dcd.chunk.js"
+put "build/static/js/787.28cb0dcd.chunk.js.map"
+put "build/static/js/main.7bc5fc13.js"
+put "build/static/js/main.7bc5fc13.js.LICENSE.txt"
+put "build/static/js/main.7bc5fc13.js.map"
+
+quit

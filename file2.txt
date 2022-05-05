@@ -1,0 +1,10 @@
+open 185.27.134.11
+user unaux_31260011 h6nkgogl
+
+cd /htdocs/static
+mkdir css
+cd /htdocs/static/css
+put "build/static/css/main.073c9b0a.css"
+put "build/static/css/main.073c9b0a.css.map"
+
+quit
